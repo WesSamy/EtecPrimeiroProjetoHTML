@@ -1,0 +1,92 @@
+body{
+    background-image: url("../img/BackGroundGIMP.png");
+    background-size: 100vmax;
+}
+h1{
+  font-size: 35px;
+    position: relative;
+    top:200px;
+   
+}
+.Guanabara{
+    color: white;
+    background-color:rgb(38, 51, 112);
+    border: none; /* Remove a borda padrão */
+    padding: 2px 160px 25px 0px; /* Espaçamento interno (topo e baixo, esquerdo e direito) */
+    text-decoration: none; /* Remove sublinhado do texto */
+    font-size: 20px;
+    margin: 4px px;
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+    border-radius: 20px;
+    transition: background-color 0.3s; /* Transição suave para a mudança de cor */
+}
+.Guanabara:hover{
+    background-color:rgb(74, 22, 122);
+}
+.imgGuanabara{
+    position: relative;
+    bottom: 20px;
+}
+.steveJ{
+    color: white;
+    background-color:rgb(38, 51, 112);
+    border: none; /* Remove a borda padrão */
+    padding: 2px 20px 25px 0px;/* Espaçamento interno (topo e baixo, esquerdo e direito) */
+    text-decoration: none; /* Remove sublinhado do texto */
+    font-size: 20px;
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+    border-radius: 20px;
+    transition: background-color 0.3s; /* Transição suave para a mudança de cor */
+}
+.imgJobs{
+    position: relative;
+    bottom: 20px;
+}
+.steveJ:hover{
+background-color:rgb(74, 22, 122);
+}
+.billG{
+    color: white;
+    background-color:rgb(38, 51, 112);
+    border: none; /* Remove a borda padrão */
+    padding: 2px 2px 25px 0px; /* Espaçamento interno (topo e baixo, esquerdo e direito) */
+    text-decoration: none; /* Remove sublinhado do texto */
+    font-size: 20px;
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+    border-radius: 20px;
+    transition: background-color 0.3s; /* Transição suave para a mudança de cor */
+}
+.imgGates{
+    position: relative;
+    bottom: 20px;
+}
+.billG:hover{
+    background-color:rgb(74, 22, 122);
+}
+img{
+    position: relative;
+    left: px;
+    top: px;
+    border: 20px;
+    border-radius: 100px;
+    background-color: rgb(38, 51, 112);
+} 
+h2{
+    font-size: 200%;
+
+}
+.Voltar{
+    color: white;
+    background-color:rgb(38, 51, 112);
+    border: none; /* Remove a borda padrão */
+    padding: 5px 20px 0px 20px; /* Espaçamento interno (topo e baixo, esquerdo e direito) */
+    text-decoration: none; /* Remove sublinhado do texto */
+    font-size: 25px;
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+    border-radius: 20px;
+    transition: background-color 0.3s; /* Transição suave para a mudança de cor */
+}
+.Voltar:hover{
+    background-color:rgb(74, 22, 122);
+}
+

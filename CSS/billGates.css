@@ -1,0 +1,49 @@
+body{
+    background-image: url("../img/Pagina01tech.jpg");
+    background-size: contain;
+}
+h1{
+    color:blueviolet;
+    font-size: 500%;
+    text-align: center;
+}
+a:visited{
+    color:rgb(170, 18, 18)
+ }
+
+h2 {
+    font-size: 250%;
+    position: relative;
+    color: goldenrod;
+}
+
+ h3 {
+    font-size: 200%;
+    font-display: 50%;
+    Color:goldenrod;
+    position: relative;
+    top: 125px;
+ }
+ img{
+    position: relative;
+    bottom: 100px;
+    border: 20px;
+    border-radius: 100px;
+ }
+ p {
+/*O comando (border) nos permite criar um "fundo" no tamanho e cor desejado*/
+/*O comando(border-radius) permite arredondar as pontas da borda*/
+        border: 10px dotted transparent;
+        border-radius: 20px;
+        background-color: rgb(144, 31, 209);
+        color:rgb(239, 243, 236);
+        font-size: 200%;
+        position: relative;
+        top:120px
+        }
+ 
+.microsoft{
+    position: relative;
+    top: 5px;
+    left: 135px; 
+ }

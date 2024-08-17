@@ -1,0 +1,59 @@
+body {
+    background-image: url("../img/Pagina01tech.jpg");
+    background-size: 100vmax; 
+}
+
+h1 {
+    color:blueviolet;
+    font-size: 500%;
+    text-align: center;
+
+}
+h2 {
+    font-size: 250%;
+    position: relative;
+    color: goldenrod;
+}
+
+ h3 {
+    font-size: 200%;
+    font-display: 50%;
+    Color:goldenrod;
+    position: relative;
+    top: 125px;
+ }
+ img{
+    position: relative;
+    bottom: 100px;
+    border: 20px;
+    border-radius: 100px;
+    background-color: rgb(38, 24, 235);
+ }
+
+ h4{
+    font-size: 175%;
+    color:rgb(196, 63, 11);
+ }
+
+ a:visited{
+    color:rgb(170, 18, 18)
+ }   
+
+/*comentario em CSS*/
+/*font-size para mudar o tamanho da fonte*/
+/*background-image: url() para colocar uma imagem de fundo para meu site*/
+/*text-align serve para alinharmos o nosso texto*/
+p {
+/*O comando (border) nos permite criar um "fundo" no tamanho e cor desejado*/
+/*O comando(border-radius) permite arredondar as pontas da borda*/
+    border: 10px dotted transparent;
+    border-radius: 20px;
+    background-color: rgb(144, 31, 209);
+    color:rgb(239, 243, 236);
+    font-size: 200%;
+    }
+header{
+   position: relative;
+   top:120px;
+}
+

@@ -1,0 +1,49 @@
+body {
+    background-image:url("../img/BackGroundGIMP.png") ;
+    background-size:100vmax;
+    background-size:275ch
+}
+
+h1{
+    color:cyan;
+    text-align: center;
+    font-size:500%;
+    border:20px dotted transparent;
+    background-color: rgb(38, 51, 112);
+    border-radius: 300px;   
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-size: 250%;
+    font-style:italic;
+    text-align: center;
+    border:20px dotted transparent;
+    background-color: rgb(38, 51, 112);
+    border-radius: 300px;
+}
+
+
+img{
+    border:10px dotted transparent;
+    border-radius:100px;
+    background-color: white;
+    
+}
+.bibliografia{
+    color: white;
+    background-color:rgb(38, 51, 112);
+    border: none; /* Remove a borda padrão */
+    padding: 3px 25px; /* Espaçamento interno (topo e baixo, esquerdo e direito) */
+    text-align: center; /* Centraliza o texto */
+    text-decoration: none; /* Remove sublinhado do texto */
+    display: inline-block; /* Faz com que o botão se ajuste ao conteúdo */
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+    border-radius: 20px;
+    transition: background-color 0.3s; /* Transição suave para a mudança de cor */
+}
+.bibliografia:hover{
+    background-color:rgb(74, 22, 122)
+}
