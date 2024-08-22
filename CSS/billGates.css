@@ -24,12 +24,7 @@ h2 {
     position: relative;
     top: 125px;
  }
- img{
-    position: relative;
-    bottom: 100px;
-    border: 20px;
-    border-radius: 100px;
- }
+
  p {
 /*O comando (border) nos permite criar um "fundo" no tamanho e cor desejado*/
 /*O comando(border-radius) permite arredondar as pontas da borda*/
@@ -47,3 +42,32 @@ h2 {
     top: 5px;
     left: 135px; 
  }
+ .msDos{
+    position:relative;
+    bottom: px;
+
+ }
+ .gates{
+    position: relative;
+    bottom: 100px;
+    border: 20px;
+    border-radius: 100px;
+ }
+ .fundacao{
+    background-color: rgb(146, 207, 187);
+    position:relative;
+    top: 120px;
+    border: 50px;
+    border-radius: 5px;
+    
+ }
+ .xbox{
+    position: relative;
+    top:20px;
+    left: 150px;
+    border: 50;
+    border-radius: 360%;
+    background-color:rgba(16, 124, 15, 225);
+    
+ }
+ 
