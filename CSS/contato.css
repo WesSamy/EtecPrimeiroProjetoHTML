@@ -1,0 +1,46 @@
+body {
+    background-image:url("../img/BackGroundGIMP.png") ;
+    background-size:100vmax;
+    background-size:275ch
+}
+h1{
+    color:cyan;
+    text-align: center;
+    font-size:500%;
+    border:20px dotted transparent;
+    background-color: rgb(38, 51, 112);
+    border-radius: 300px;   
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-size: 250%;
+    font-style:italic;
+    text-align: center;
+    border:20px dotted transparent;
+    background-color: rgb(38, 51, 112);
+    border-radius: 300px;
+}
+
+.pgnPrin{
+    font-size: 50px;
+    color:white;
+    position:relative;
+    bottom: 350px;
+}
+.mVSa{
+    Position:relative;
+    top: 100px;
+    right: 330px;
+}
+.billRindo{
+   position: relative;
+   top:100px; 
+}
+
+.steveApontando{
+    position:relative;
+    top:510px;
+    right: 605px;
+
+}
